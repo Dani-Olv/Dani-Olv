@@ -1,7 +1,6 @@
-### Hello there! I'm Danielle and welcome to my GitHub! :relaxed:
+### Welcome to my GitHub! :relaxed:
 
 - ⚡ Fun fact: I love anime!
-
 - 🌱 I’m currently learning ...
 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "40" height= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "40" height= "40"/>
